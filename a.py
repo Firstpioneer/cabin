@@ -1,0 +1,2 @@
+import mkdocs_material
+print(mkdocs_material.__version__)
