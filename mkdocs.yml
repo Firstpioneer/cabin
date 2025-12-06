@@ -1,6 +1,6 @@
 #站点信息
 site_name: Ally的魔法小屋
-site_url:
+site_url: https://firstpioneer.github.io/cabin/
 site_author: Ally
 site_description: 啊吧啊吧啊吧
 
@@ -66,6 +66,7 @@ nav:
         - 随想: 
           - 随想/AI时代的到来——人类的兴起与落寞.md
           - 随想/The Games.md
+          - 随想/我们只需要尝试的勇气.md
     - 关于我: about.md
 
 
