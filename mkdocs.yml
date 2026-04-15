@@ -63,10 +63,18 @@ extra:
 nav:
     - 首页: index.md
     - 随想:
-        - 随想: 
-          - 随想/AI时代的到来——人类的兴起与落寞.md
-          - 随想/The Games.md
-          - 随想/我们只需要尝试的勇气.md
+      - 随想/AI时代的到来——人类的兴起与落寞.md
+      - 随想/The Games.md
+      - 随想/我们只需要尝试的勇气.md
+
+    - 课程:
+      - cs336:
+        - 课程/cs336/简述.md
+        - 课程/cs336/chapter1_wandb使用介绍.md
+        - 课程/cs336/chapter2_分词器.md
+        - 课程/cs336/一些思考和感想.md
+
+
     - 关于我: about.md
 
 
